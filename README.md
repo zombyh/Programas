@@ -1,5 +1,5 @@
 Desafio 1:<br>
-Desenvolver um programa na linguagem python, que realize o cálculo do IMC.
+> Desenvolver um programa na linguagem python, que realize o cálculo do IMC.
 O que o programa deve fazer: Pedir para o usuário inserir seu nome, seu peso e sua altura, e depois de fazer o cálculo, deve retornar para o usuário a informação de nome e o imc conforme a tabela que pode ser encontrada na internet.
 
 Desafio 2:<br>
